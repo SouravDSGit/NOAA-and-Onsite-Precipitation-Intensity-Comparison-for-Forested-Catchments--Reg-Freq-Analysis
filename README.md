@@ -13,5 +13,3 @@ Published
 Issue Date
 October 2023
 
-DOI
-https://doi.org/10.1007/s00477-023-02495-0
